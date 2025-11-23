@@ -1,4 +1,4 @@
-# hello-world
+# hello-worl
 <ins>CS 3377.0W2 Week13 Lab 1</ins>
 
 **Hello**, I am Lyn ദ്ദി/ᐠ｡‸｡ᐟ\
